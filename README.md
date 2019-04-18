@@ -1,4 +1,4 @@
-# p5_studdybuddy
+#studdybuddy
 Android app to connect students with other students having same interests
 So  a new user can sign up using the sign up button and an existing user can sign in by entering the credentials.
 There are three tabs that show up  1. Profile
