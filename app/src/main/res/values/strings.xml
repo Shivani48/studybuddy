@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">StuddyBuddy</string>
+
+    <string name="major">Choose a major</string>
+    <string-array name="major_array">
+        <item>Accounting (BS)</item>
+        <item>Africana Studies (BA)</item>
+        <item>Anthropology (BS)</item>
+        <item>Anthropology: Anthropological Perspectives (BA)</item>
+        <item>Anthropology: General (BA)</item>
+        <item>Arabic Studies (BA)</item>
+        <item>Art and Design (BA)</item>
+        <item>Art and Design: Drawing (BA, BFA)</item>
+        <item>Art and Design: Graphic Design (BA, BFA)</item>
+        <item>Art and Design: Painting (BA, BFA)</item>
+        <item>Art and Design: Printmaking (BA, BFA)</item>
+        <item>Art and Design: Sculpture (BA, BFA)</item>
+        <item>Art History (BA)</item>
+        <item>Art History: Architecture and Urban History (BA)</item>
+        <item>Art History: Pre-Architecture (BA)</item>
+        <item>Asian and Asian American Studies (BA)</item>
+        <item>Biochemistry (BS)</item>
+        <item>Biological Sciences (BA, BS)</item>
+        <item>Biomedical Engineering (BS)</item>
+        <item>Business Administration (BS)</item>
+        <item>Business Administration: Business Analytics (BS)</item>
+        <item>Business Administration: Entrepreneurship (BS)</item>
+        <item>Business Administration: Finance (BS)</item>
+        <item>Business Administration: Leadership and Consulting (BS)</item>
+        <item>Business Administration: Management Information Systems (BS)</item>
+        <item>Business Administration: Marketing (BS)</item>
+        <item>Business Administration: Quantitative Finance (BS)</item>
+        <item>Business Administration: Supply Chain Management (BS)</item>
+        <item>Chemistry (BA, BS)</item>
+        <item>Chemistry: ACS Certified (BS)</item>
+        <item>Chemistry: Biological Chemistry (BS)</item>
+        <item>Chemistry: Materials (BA, BS)</item>
+        <item>Chinese Studies (BA)</item>
+        <item>Cinema (BA)</item>
+        <item>Classical and Near Eastern Studies: Classical Civilization (BA)</item>
+        <item>Classical and Near Eastern Studies: Classics, Greek and Latin (BA)</item>
+        <item>Classical and Near Eastern Studies: Latin (BA)</item>
+        <item>Comparative Literature (BA)</item>
+        <item>Computer Engineering (BS)</item>
+        <item>Computer Science (BS)</item>
+        <item>Economics (BA, BS)</item>
+        <item>Economics: Economic Policy Analysis (BS)</item>
+        <item>Economics: Financial Analysis (BS)</item>
+        <item>Electrical Engineering (BS)</item>
+        <item>English (BA)</item>
+        <item>English: Creative Writing (BA)</item>
+        <item>English: Creative Writing and Global Culture (BA)</item>
+        <item>English: Global Culture (BA)</item>
+        <item>English: Rhetoric (BA)</item>
+        <item>English: Rhetoric and Global Culture (BA)</item>
+        <item>Environmental Science (BS)</item>
+        <item>Environmental Science: Earth Sciences and Natural Resources (BS)</item>
+        <item>Environmental Science: Environmental Chemistry (BS)</item>
+        <item>Environmental Science: Environmental Ecosystems (BS)</item>
+        <item>Environmental Studies (BA)</item>
+        <item>Environmental Studies: Earth Sciences and Natural Resources (BA)</item>
+        <item>Environmental Studies: Environmental Anthropology (BA)</item>
+        <item>Environmental Studies: Environmental Chemistry (BA)</item>
+        <item>Environmental Studies: Environmental Economics (BA)</item>
+        <item>Environmental Studies: Environmental Ecosystems (BA)</item>
+        <item>Environmental Studies: Environmental Planning (BA)</item>
+        <item>Environmental Studies: Public Policy, Administration and Law (BA)</item>
+        <item>French: Language and Linguistics (BA)</item>
+        <item>French: Language and Literature (BA)</item>
+        <item>Geography: Analytical Geography (BA)</item>
+        <item>Geography: Computer Applications in Human-Environmental Analysis (BA)</item>
+        <item>Geography: Environmental and Resource Management (BA)</item>
+        <item>Geography: General (BA)</item>
+        <item>Geography: Geography and Urban Planning (BA)</item>
+        <item>Geography: Physical Geography and Environment (BA)</item>
+        <item>Geography: Race-Ethnicity and Place: American Urban Perspectives (BA)</item>
+        <item>Geography: Urban and Regional Planning (BA)</item>
+        <item>Geography: Urban: Economic/Retailing Emphasis (BA)</item>
+        <item>Geological Sciences (BA, BS)</item>
+        <item>Geological Sciences: Environmental Geology (BS)</item>
+        <item>Geological Sciences: Geophysics (BS)</item>
+        <item>German: Language and Literature (BA)</item>
+        <item>Hebrew (BA)</item>
+        <item>History (BA)</item>
+        <item>Human Development (BS)</item>
+        <item>Industrial and Systems Engineering (BS)</item>
+        <item>Integrative Neuroscience (BS)</item>
+        <item>Italian (BA)</item>
+        <item>Japanese Studies (BA)</item>
+        <item>Judaic Studies (BA)</item>
+        <item>Korean Studies (BA)</item>
+        <item>Latin American and Caribbean Studies (BA)</item>
+        <item>Latin Language and Literature (BA)</item>
+        <item>Linguistics (BA)</item>
+        <item>Mathematical Sciences (BA, BS)</item>
+        <item>Mathematical Sciences: Actuarial Sciences (BA, BS)</item>
+        <item>Mechanical Engineering (BS)</item>
+        <item>Medieval and Early Modern Studies (BA)</item>
+        <item>Music (BA, MusB)</item>
+        <item>Nursing (BS)</item>
+        <item>Philosophy (BA)</item>
+        <item>Philosophy, Politics and Law (BA)</item>
+        <item>Physics (BA, BS)</item>
+        <item>Physics: Mathematical Physics (BS)</item>
+        <item>Political Science (BA)</item>
+        <item>Psychology (BA)</item>
+        <item>Psychology: Applied Behavior Analysis (BA)</item>
+        <item>Russian Studies: Area Studies (BA)</item>
+        <item>Russian Studies: Literary and Cultural Studies (BA)</item>
+        <item>Social Work (BSW)</item>
+        <item>Sociology (BA)</item>
+        <item>Spanish: Language and Literature (BA)</item>
+        <item>Theatre (BA)</item>
+        <item>Theatre: Acting/Directing (BA)</item>
+        <item>Theatre: Dance (BA)</item>
+        <item>Theatre: Technical/Design (BA)</item>
+        <item>Women Gender and Sexuality Studies (CERT)</item>
+    </string-array>
+
+    <string name="level">Choose level</string>
+    <string-array name="level_array">
+        <item>Freshman</item>
+        <item>Sophomore</item>
+        <item>Junior</item>
+        <item>Senior</item>
+        <item>Masters</item>
+        <item>PhD</item>
+    </string-array>
+    <string name="title_activity_homepage2">Homepage2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
